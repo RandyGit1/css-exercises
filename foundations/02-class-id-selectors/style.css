@@ -8,12 +8,13 @@
     font-size: 36px;
 }
 
-#p2 {
-    font-size: 24px;
-}
 
 #div2 {
     background-color: rgb(70, 179, 79);
     font-size: 24px;
     font-weight: bold;
+}
+
+.f-size {
+    font-size: 24px;
 }
